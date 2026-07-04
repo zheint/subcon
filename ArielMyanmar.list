@@ -1,0 +1,14 @@
+GEOSITE,youtube
+GEOSITE,tiktok
+GEOSITE,telegram
+GEOIP,telegram
+DOMAIN-KEYWORD,kbzpay
+DOMAIN-KEYWORD,ayapay
+DOMAIN-KEYWORD,wavemoney
+DOMAIN-KEYWORD,cbbank
+DOMAIN-SUFFIX,mm
+GEOIP,mm
+GEOIP,private
+DOMAIN-SUFFIX,fast.com
+DOMAIN-KEYWORD,nflxvideo
+DOMAIN-KEYWORD,netflix
