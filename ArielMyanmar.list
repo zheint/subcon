@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,cbbank
 DOMAIN-SUFFIX,mm
 GEOIP,mm
 GEOIP,private
+DOMAIN-KEYWORD,whatismyipaddress
 DOMAIN-SUFFIX,fast.com
 DOMAIN-KEYWORD,nflxvideo
 DOMAIN-KEYWORD,netflix
