@@ -1,14 +1,14 @@
-# --- Phone Wi-Fi Connection Checks (MUST BE DIRECT) ---
-DOMAIN,connectivitycheck.gstatic.com
+# --- Phone Wi-Fi Connection & Time Checks (MUST BE DIRECT) ---
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN,connectivitycheck.android.com
 DOMAIN,clients3.google.com
-DOMAIN,www.gstatic.com
-DOMAIN,cp.cloudflare.com
-DOMAIN,connect.rom.miui.com
 DOMAIN,captive.apple.com
-DOMAIN-SUFFIX,platform.hicloud.com
-DOMAIN-SUFFIX,coloros.com
-DOMAIN-SUFFIX,vivo.com
-DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN,time.android.com
+DOMAIN,time.windows.com
+DOMAIN,time.apple.com
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
 
 # --- Direct Overrides ---
 DOMAIN-SUFFIX,fast.com
