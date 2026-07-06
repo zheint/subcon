@@ -1,3 +1,15 @@
+# --- Phone Wi-Fi Connection Checks (MUST BE DIRECT) ---
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,clients3.google.com
+DOMAIN,www.gstatic.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,connect.rom.miui.com
+DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,platform.hicloud.com
+DOMAIN-SUFFIX,coloros.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,gvt1.com
+
 # --- Direct Overrides ---
 DOMAIN-SUFFIX,fast.com
 DOMAIN,ariel.premiumcloud.shop
