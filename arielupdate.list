@@ -108,6 +108,16 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-KEYWORD,youtube
 
+# --- Google Services (DIRECT) ---
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,1e100.net
+
 # --- Netflix ---
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
