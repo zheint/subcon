@@ -1,4 +1,16 @@
 # --- Phone Wi-Fi Connection & Time Checks (MUST BE DIRECT) ---
+# --- Xiaomi/Redmi & Android Connection Checks (DIRECT) ---
+DOMAIN,connect.rom.miui.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN,captive.v.network
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,connectivitycheck.android.com
+DOMAIN,clients3.google.com
+DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN,time.android.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN,connectivitycheck.android.com
 DOMAIN,clients3.google.com
